@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "6YwSbvz1Gk8t8BkAGwo4o9BUhMVIu3t1bNTWwY5lGwgT6p9A/n6yVISj8ISD/Sp1rLxw2G1ipewtAHqtLHvT1g==",
+  "success": true,
+  "projectFilePath": "D:\\Programming\\MyProjects\\Broadcaster\\Broadcaster.Domain\\Broadcaster.Domain.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1803",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "You are running the 'restore' operation with an 'HTTP' source, 'http://192.168.39.6:8080/tfs/PAP Projects/_packaging/Pap-Feed/nuget/v3/index.json'. Non-HTTPS access will be removed in a future version. Consider migrating to an 'HTTPS' source."
+    }
+  ]
+}

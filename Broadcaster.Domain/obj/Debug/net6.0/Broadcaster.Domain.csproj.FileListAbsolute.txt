@@ -1,0 +1,12 @@
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Domain\bin\Debug\net6.0\Broadcaster.Domain.deps.json
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Domain\bin\Debug\net6.0\Broadcaster.Domain.dll
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Domain\bin\Debug\net6.0\Broadcaster.Domain.pdb
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Domain\obj\Debug\net6.0\Broadcaster.Domain.csproj.AssemblyReference.cache
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Domain\obj\Debug\net6.0\Broadcaster.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Domain\obj\Debug\net6.0\Broadcaster.Domain.AssemblyInfoInputs.cache
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Domain\obj\Debug\net6.0\Broadcaster.Domain.AssemblyInfo.cs
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Domain\obj\Debug\net6.0\Broadcaster.Domain.csproj.CoreCompileInputs.cache
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Domain\obj\Debug\net6.0\Broadcaster.Domain.dll
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Domain\obj\Debug\net6.0\refint\Broadcaster.Domain.dll
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Domain\obj\Debug\net6.0\Broadcaster.Domain.pdb
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Domain\obj\Debug\net6.0\ref\Broadcaster.Domain.dll

@@ -1,0 +1,5 @@
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\obj\Debug\net6.0\Broadcaster.Infrastructure.csproj.AssemblyReference.cache
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\obj\Debug\net6.0\Broadcaster.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\obj\Debug\net6.0\Broadcaster.Infrastructure.AssemblyInfoInputs.cache
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\obj\Debug\net6.0\Broadcaster.Infrastructure.AssemblyInfo.cs
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\obj\Debug\net6.0\Broadcaster.Infrastructure.csproj.CoreCompileInputs.cache
