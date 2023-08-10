@@ -3,3 +3,13 @@ D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\obj\Debug\net6.
 D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\obj\Debug\net6.0\Broadcaster.Infrastructure.AssemblyInfoInputs.cache
 D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\obj\Debug\net6.0\Broadcaster.Infrastructure.AssemblyInfo.cs
 D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\obj\Debug\net6.0\Broadcaster.Infrastructure.csproj.CoreCompileInputs.cache
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\bin\Debug\net6.0\Broadcaster.Infrastructure.deps.json
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\bin\Debug\net6.0\Broadcaster.Infrastructure.dll
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\bin\Debug\net6.0\Broadcaster.Infrastructure.pdb
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\bin\Debug\net6.0\Broadcaster.Domain.dll
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\bin\Debug\net6.0\Broadcaster.Domain.pdb
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\obj\Debug\net6.0\Broadcaster.Infrastructure.csproj.CopyComplete
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\obj\Debug\net6.0\Broadcaster.Infrastructure.dll
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\obj\Debug\net6.0\refint\Broadcaster.Infrastructure.dll
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\obj\Debug\net6.0\Broadcaster.Infrastructure.pdb
+D:\Programming\MyProjects\Broadcaster\Broadcaster.Infrastructure\obj\Debug\net6.0\ref\Broadcaster.Infrastructure.dll
